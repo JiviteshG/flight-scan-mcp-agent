@@ -1,0 +1,15 @@
+{
+  "cheapest_flight": {
+    "airline_name": "Air Canada, Air India",
+    "price_usd": "679",
+    "is_direct": false,
+    "departure_time": "Wed, Mar 18",
+    "route": "Fredericton (YFC) to Mumbai (BOM)"
+  },
+  "price_threshold_check": {
+    "price": 679,
+    "under_1000": true,
+    "action_taken": "Draft approval email created"
+  },
+  "extraction_date": "2026-01-15"
+}

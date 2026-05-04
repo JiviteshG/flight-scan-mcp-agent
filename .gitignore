@@ -1,0 +1,16 @@
+# Dependencies
+node_modules/
+env/
+venv/
+
+# Local Data and Logs
+data/
+research_logs/
+
+# Secrets
+.env
+.streamlit/secrets.toml
+
+# OS files
+.DS_Store
+Thumbs.db

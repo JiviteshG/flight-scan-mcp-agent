@@ -1,0 +1,33 @@
+{
+  "flights": [
+    {
+      "airline_name": "Air Canada, Emirates",
+      "price_usd": "1189",
+      "is_direct": false,
+      "departure_time": "Thu, Apr 16 — Thu, Apr 30"
+    },
+    {
+      "airline_name": "Air Canada, Air India",
+      "price_usd": "679",
+      "is_direct": false,
+      "departure_time": "Wed, Mar 18"
+    },
+    {
+      "airline_name": "Air Canada, Cathay Pacific",
+      "price_usd": "1226",
+      "is_direct": false,
+      "departure_time": "Thu, Jan 22 — Mon, Jan 26"
+    },
+    {
+      "airline_name": "Air Canada, Emirates",
+      "price_usd": "4193",
+      "is_direct": false,
+      "departure_time": "Fri, Apr 10 — Sat, Apr 25"
+    }
+  ],
+  "source": "Google Flights",
+  "route": "Fredericton (YFC) to Mumbai (BOM)",
+  "extraction_date": "2026-01-15",
+  "extraction_method": "firecrawl_extract",
+  "notes": "All flights require at least one stop (no direct flights available on this route). Prices are in USD for round-trip flights unless otherwise specified. Departure times shown are date ranges for available flights."
+}
