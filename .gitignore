@@ -1,3 +1,21 @@
+# Dependencies
+node_modules/
+env/
+venv/
+
+# Local Data and Logs
+data/
+research_logs/
+outputs/
+
+# Secrets
+.env
+.streamlit/secrets.toml
+
+# OS files
+.DS_Store
+Thumbs.db
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
@@ -216,9 +234,3 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
-
-node_modules/
-data/
-outputs/
-research_logs/
-.env
